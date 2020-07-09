@@ -362,7 +362,7 @@ model_final.summary()
 
 """#Cargamos los pesos"""
 
-model.load_weights("/content/drive/My Drive/MemoriaProyectoGrado/faceNetWeights.h5")
+model.load_weights("faceNetWeights.h5")
 
 """##Prediccion"""
 
